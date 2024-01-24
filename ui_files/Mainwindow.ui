@@ -1474,7 +1474,7 @@
      <rect>
       <x>270</x>
       <y>160</y>
-      <width>101</width>
+      <width>81</width>
       <height>31</height>
      </rect>
     </property>
@@ -1482,7 +1482,6 @@
      <font>
       <family>Ubuntu Condensed</family>
       <pointsize>17</pointsize>
-      <weight>75</weight>
       <bold>true</bold>
      </font>
     </property>
@@ -1496,7 +1495,7 @@
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(37, 255, 51);</string>
+     <string notr="true">color: rgb(255, 0, 0);</string>
     </property>
     <property name="text">
      <string/>
@@ -1564,7 +1563,7 @@
      <x>0</x>
      <y>0</y>
      <width>968</width>
-     <height>26</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>
